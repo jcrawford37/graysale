@@ -5,22 +5,29 @@ If you download the zip from here, GitHub will append the text  "-master" (or -b
 
 ## Commands
 /graysale
+
 prints the usage of the commands listed below in game in the chat window.
 
 /printtrash
+
 prints the trash list. Anything on this list is treated like a gray when you vendor.
 
 /addtotrash <ctrl+click item>
+
 This adds items to the trash list from your bag or from item links in chat.
 
 /removefromtrash <ctrl+click item>
+
 This removes a single item from the trash list if it matches the link.
 
 /removefromtrash *
+
 This removes the entire trash list. This means graysale will only sell gray items.
 
 /printcoin
+
 Prints some fun stats like the biggest amount of grays sold at once, total transactions and total profit made using the Sell Junk button.
 
 /resetcoin
+
 Resets the stats presented by the /printcoin ability
